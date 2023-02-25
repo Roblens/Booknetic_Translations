@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: test\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-23 11:23+0400\n"
-"PO-Revision-Date: 2023-02-25 12:11+0100\n"
+"PO-Revision-Date: 2023-02-25 14:36+0100\n"
 "Last-Translator: Omar Khalil <o.khalil@omkh.net>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -2900,11 +2900,11 @@ msgstr "Wenn ein Dienst kein Extra hat, überspringe den Schritt"
 
 #: Backend/Settings/view/modal/booking_panel_steps_settings.php:200
 msgid "Collapse service extras under a category"
-msgstr ""
+msgstr "Zusatzleistungen unter einer Kategorie zusammenfalten"
 
 #: Backend/Settings/view/modal/booking_panel_steps_settings.php:210
 msgid "Show all the service extras"
-msgstr ""
+msgstr "Alle Zusatzleistungen anzeigen"
 
 #: Backend/Settings/view/modal/booking_panel_steps_settings.php:223
 msgid "The time format for the booking form"
